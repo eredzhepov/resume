@@ -1,0 +1,25 @@
+.main{
+	width:60%;
+	margin:0 auto;
+}
+
+table{
+	margin-top:40px;
+	font:18px serif ;
+}
+
+td {
+	width:300px;
+	height:50px;
+	vertical-align: top;
+	line-height: 22px;
+}
+.widbold{
+	font-weight: bold;
+}
+a:hover {
+	color:#B22222;
+}
+a:visited{
+	color:#0000FF;
+}
